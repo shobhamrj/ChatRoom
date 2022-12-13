@@ -8,4 +8,4 @@ function formatMessage(userName, text) {
     };
 }
 
-export default { formatMessage };
+module.exports = formatMessage;
